@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "Cool blue at 80% (Work Mode)",
+    "distractor": "AC set to 22C",
+    "query": "Current Lighting?",
+    "answer": "Cool blue"
+  },
+  {
+    "id": 2,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Display on East wall",
+    "distractor": "Blinds closed",
+    "query": "Visual Output Wall?",
+    "answer": "East"
+  },
+  {
+    "id": 3,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Sitting at Lounge",
+    "distractor": "Microphone active",
+    "query": "User_A Location?",
+    "answer": "Lounge"
+  },
+  {
+    "id": 4,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Focus White Noise",
+    "distractor": "Volume level 4",
+    "query": "Current Audio?",
+    "answer": "White Noise"
+  },
+  {
+    "id": 5,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Glass Opaque",
+    "distractor": "Door locked",
+    "query": "Glass State?",
+    "answer": "Opaque"
+  },
+  {
+    "id": 6,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Screen Share: Tablet 2",
+    "distractor": "Timer started",
+    "query": "Active Screen?",
+    "answer": "Tablet 2"
+  },
+  {
+    "id": 7,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Floor vibration Low (Alert)",
+    "distractor": "Red LED pulse",
+    "query": "Floor State?",
+    "answer": "Low"
+  },
+  {
+    "id": 8,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Fan Speed: Quiet",
+    "distractor": "Humidity 45%",
+    "query": "Fan Speed?",
+    "answer": "Quiet"
+  },
+  {
+    "id": 9,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Hidden for Privacy",
+    "distractor": "Camera tracking on",
+    "query": "Avatar Status?",
+    "answer": "Hidden"
+  },
+  {
+    "id": 10,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Lavender aroma",
+    "distractor": "Air purifier on",
+    "query": "Current Scent?",
+    "answer": "Lavender"
+  }
+]
