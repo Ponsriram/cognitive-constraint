@@ -1,0 +1,6 @@
+candidate,fold,val_loss,val_accuracy,stale_hits,distractor_hits,epochs_ran
+cira_baseline,1,0.4417935262123744,0.75,0,0,73
+cira_baseline,2,0.7063625256220499,0.5,0,0,21
+cira_baseline,3,0.08908502912769715,1.0,0,0,120
+cira_baseline,4,0.0020328552151719728,1.0,0,0,120
+cira_baseline,5,0.017580819005767506,1.0,0,0,120

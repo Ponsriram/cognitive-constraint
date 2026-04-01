@@ -1,0 +1,4 @@
+model,citation,accuracy_mean,accuracy_std,error_rate_mean,accuracy_delta_vs_cira,error_delta_vs_cira
+"CIRA (5-fold CV, cira_baseline)",Current notebook run,0.85,0.2,0.15000000000000002,0.0,0.0
+Previous paper baseline (edit title),"Author et al., Year",0.78,,0.22,-0.06999999999999995,0.06999999999999998
+Other paper baseline (edit title),"Author et al., Year",0.81,,0.19,-0.039999999999999925,0.03999999999999998

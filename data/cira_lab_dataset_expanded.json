@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "Cool blue at 80% (Work Mode)",
+    "distractor": "AC set to 22C",
+    "query": "What changed in Lighting?",
+    "answer": "Correct"
+  },
+  {
+    "id": 2,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "AC set to 22C",
+    "distractor": "Cool blue at 80% (Work Mode)",
+    "query": "What changed in Lighting?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 3,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Display on East wall",
+    "distractor": "Blinds closed",
+    "query": "What changed in Layout?",
+    "answer": "Correct"
+  },
+  {
+    "id": 4,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Blinds closed",
+    "distractor": "Display on East wall",
+    "query": "What changed in Layout?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 5,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Sitting at Lounge",
+    "distractor": "Microphone active",
+    "query": "What changed in User_A?",
+    "answer": "Correct"
+  },
+  {
+    "id": 6,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Microphone active",
+    "distractor": "Sitting at Lounge",
+    "query": "What changed in User_A?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 7,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Focus White Noise",
+    "distractor": "Volume level 4",
+    "query": "What changed in Audio?",
+    "answer": "Correct"
+  },
+  {
+    "id": 8,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Volume level 4",
+    "distractor": "Focus White Noise",
+    "query": "What changed in Audio?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 9,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Glass Opaque",
+    "distractor": "Door locked",
+    "query": "What changed in Privacy?",
+    "answer": "Correct"
+  },
+  {
+    "id": 10,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Door locked",
+    "distractor": "Glass Opaque",
+    "query": "What changed in Privacy?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 11,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Screen Share: Tablet 2",
+    "distractor": "Timer started",
+    "query": "What changed in Collab?",
+    "answer": "Correct"
+  },
+  {
+    "id": 12,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Timer started",
+    "distractor": "Screen Share: Tablet 2",
+    "query": "What changed in Collab?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 13,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Floor vibration Low (Alert)",
+    "distractor": "Red LED pulse",
+    "query": "What changed in Haptics?",
+    "answer": "Correct"
+  },
+  {
+    "id": 14,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Red LED pulse",
+    "distractor": "Floor vibration Low (Alert)",
+    "query": "What changed in Haptics?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 15,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Fan Speed: Quiet",
+    "distractor": "Humidity 45%",
+    "query": "What changed in Climate?",
+    "answer": "Correct"
+  },
+  {
+    "id": 16,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Humidity 45%",
+    "distractor": "Fan Speed: Quiet",
+    "query": "What changed in Climate?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 17,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Hidden for Privacy",
+    "distractor": "Camera tracking on",
+    "query": "What changed in Avatar?",
+    "answer": "Correct"
+  },
+  {
+    "id": 18,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Camera tracking on",
+    "distractor": "Hidden for Privacy",
+    "query": "What changed in Avatar?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 19,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Lavender aroma",
+    "distractor": "Air purifier on",
+    "query": "What changed in Scent?",
+    "answer": "Correct"
+  },
+  {
+    "id": 20,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Air purifier on",
+    "distractor": "Lavender aroma",
+    "query": "What changed in Scent?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 21,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "Cool blue at 80% (Work Mode)",
+    "distractor": "AC set to 22C",
+    "query": "Lighting: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 22,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "Cool blue at 80% (Work Mode)",
+    "distractor": "AC set to 22C",
+    "query": "Lighting now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 23,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "AC set to 22C",
+    "distractor": "Cool blue at 80% (Work Mode)",
+    "query": "Lighting: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 24,
+    "space": "Lighting",
+    "initial": "Warm yellow at 20%",
+    "new": "AC set to 22C",
+    "distractor": "Cool blue at 80% (Work Mode)",
+    "query": "Lighting now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 25,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Display on East wall",
+    "distractor": "Blinds closed",
+    "query": "Layout: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 26,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Display on East wall",
+    "distractor": "Blinds closed",
+    "query": "Layout now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 27,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Blinds closed",
+    "distractor": "Display on East wall",
+    "query": "Layout: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 28,
+    "space": "Layout",
+    "initial": "Projector on North wall",
+    "new": "Blinds closed",
+    "distractor": "Display on East wall",
+    "query": "Layout now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 29,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Sitting at Lounge",
+    "distractor": "Microphone active",
+    "query": "User_A: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 30,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Sitting at Lounge",
+    "distractor": "Microphone active",
+    "query": "User_A now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 31,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Microphone active",
+    "distractor": "Sitting at Lounge",
+    "query": "User_A: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 32,
+    "space": "User_A",
+    "initial": "Standing at Podium",
+    "new": "Microphone active",
+    "distractor": "Sitting at Lounge",
+    "query": "User_A now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 33,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Focus White Noise",
+    "distractor": "Volume level 4",
+    "query": "Audio: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 34,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Focus White Noise",
+    "distractor": "Volume level 4",
+    "query": "Audio now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 35,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Volume level 4",
+    "distractor": "Focus White Noise",
+    "query": "Audio: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 36,
+    "space": "Audio",
+    "initial": "Ambient Jazz",
+    "new": "Volume level 4",
+    "distractor": "Focus White Noise",
+    "query": "Audio now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 37,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Glass Opaque",
+    "distractor": "Door locked",
+    "query": "Privacy: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 38,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Glass Opaque",
+    "distractor": "Door locked",
+    "query": "Privacy now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 39,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Door locked",
+    "distractor": "Glass Opaque",
+    "query": "Privacy: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 40,
+    "space": "Privacy",
+    "initial": "Glass Transparent",
+    "new": "Door locked",
+    "distractor": "Glass Opaque",
+    "query": "Privacy now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 41,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Screen Share: Tablet 2",
+    "distractor": "Timer started",
+    "query": "Collab: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 42,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Screen Share: Tablet 2",
+    "distractor": "Timer started",
+    "query": "Collab now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 43,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Timer started",
+    "distractor": "Screen Share: Tablet 2",
+    "query": "Collab: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 44,
+    "space": "Collab",
+    "initial": "Screen Share: Laptop 1",
+    "new": "Timer started",
+    "distractor": "Screen Share: Tablet 2",
+    "query": "Collab now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 45,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Floor vibration Low (Alert)",
+    "distractor": "Red LED pulse",
+    "query": "Haptics: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 46,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Floor vibration Low (Alert)",
+    "distractor": "Red LED pulse",
+    "query": "Haptics now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 47,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Red LED pulse",
+    "distractor": "Floor vibration Low (Alert)",
+    "query": "Haptics: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 48,
+    "space": "Haptics",
+    "initial": "Floor vibration Off",
+    "new": "Red LED pulse",
+    "distractor": "Floor vibration Low (Alert)",
+    "query": "Haptics now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 49,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Fan Speed: Quiet",
+    "distractor": "Humidity 45%",
+    "query": "Climate: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 50,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Fan Speed: Quiet",
+    "distractor": "Humidity 45%",
+    "query": "Climate now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 51,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Humidity 45%",
+    "distractor": "Fan Speed: Quiet",
+    "query": "Climate: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 52,
+    "space": "Climate",
+    "initial": "Fan Speed: High",
+    "new": "Humidity 45%",
+    "distractor": "Fan Speed: Quiet",
+    "query": "Climate now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 53,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Hidden for Privacy",
+    "distractor": "Camera tracking on",
+    "query": "Avatar: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 54,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Hidden for Privacy",
+    "distractor": "Camera tracking on",
+    "query": "Avatar now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 55,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Camera tracking on",
+    "distractor": "Hidden for Privacy",
+    "query": "Avatar: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 56,
+    "space": "Avatar",
+    "initial": "Visible in Mirror",
+    "new": "Camera tracking on",
+    "distractor": "Hidden for Privacy",
+    "query": "Avatar now?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 57,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Lavender aroma",
+    "distractor": "Air purifier on",
+    "query": "Scent: current status?",
+    "answer": "Correct"
+  },
+  {
+    "id": 58,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Lavender aroma",
+    "distractor": "Air purifier on",
+    "query": "Scent now?",
+    "answer": "Correct"
+  },
+  {
+    "id": 59,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Air purifier on",
+    "distractor": "Lavender aroma",
+    "query": "Scent: current status?",
+    "answer": "Incorrect"
+  },
+  {
+    "id": 60,
+    "space": "Scent",
+    "initial": "Pine aroma",
+    "new": "Air purifier on",
+    "distractor": "Lavender aroma",
+    "query": "Scent now?",
+    "answer": "Incorrect"
+  }
+]
